@@ -452,9 +452,40 @@ vendor/lib/liblistensoundmodel2.so
 vendor/lib/libsmwrapper.so
 
 # NFC
+system_ext/lib/vendor.nxp.hardware.nfc@1.0.so
+system_ext/lib/vendor.nxp.hardware.nfc@1.1.so
+system_ext/lib/vendor.nxp.hardware.nfc@2.0.so
+system_ext/lib64/vendor.nxp.hardware.nfc@1.0.so
+system_ext/lib64/vendor.nxp.hardware.nfc@1.1.so
+system_ext/lib64/vendor.nxp.hardware.nfc@2.0.so
+vendor/bin/hw/vendor.nxp.hardware.nfc@2.0-service
+vendor/bin/nqnfcinfo
+vendor/etc/init/vendor.nxp.hardware.nfc@2.0-service.rc
+vendor/etc/libnfc-mtp-SN100.conf
+vendor/etc/libnfc-mtp-SN100_38_4MHZ.conf
 vendor/etc/libnfc-nci.conf
+vendor/etc/libnfc-nxp-JAPAN.conf
+vendor/etc/libnfc-nxp-pnscr.conf
 vendor/etc/libnfc-nxp.conf
+vendor/etc/libnfc-nxp_RF.conf
+vendor/etc/libnfc-qrd-SN100.conf
+vendor/etc/libnfc-qrd-SN100_38_4MHZ.conf
+vendor/etc/permissions/com.android.nfc_extras.xml
+vendor/etc/permissions/com.nxp.mifare.xml
+vendor/etc/sn100u_nfcon.pnscr
+vendor/lib/hal_libnfc.so
 vendor/lib/libpn553_fw.so
+vendor/lib/nfc_nci.nqx.default.hw.so
+vendor/lib/vendor.nxp.hardware.nfc@1.0.so
+vendor/lib/vendor.nxp.hardware.nfc@1.1.so
+vendor/lib/vendor.nxp.hardware.nfc@2.0.so
+vendor/lib/vendor.nxp.nxpnfclegacy@1.0.so
+vendor/lib64/hal_libnfc.so
+vendor/lib64/nfc_nci.nqx.default.hw.so
+vendor/lib64/vendor.nxp.hardware.nfc@1.0.so
+vendor/lib64/vendor.nxp.hardware.nfc@1.1.so
+vendor/lib64/vendor.nxp.hardware.nfc@2.0.so
+vendor/lib64/vendor.nxp.nxpnfclegacy@1.0.so
 
 # Sensors
 vendor/bin/sensors.qti
